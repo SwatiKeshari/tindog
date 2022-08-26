@@ -1,3 +1,3 @@
 TinDog 
 
-https://aditya292002.github.io/tindog/
+Tinder for Dogs
